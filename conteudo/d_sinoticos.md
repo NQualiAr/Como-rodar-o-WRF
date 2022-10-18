@@ -21,7 +21,7 @@ Depois de ter localizado a base de dados de interesse faça `click` na base, dev
 
 ![](./figs/data_desc.png)
 
-3. Entrar no Data Access, nesta  entra no `Web File Listing` que esta na coluna do **Web Server Holdings**
+3. Entrar no Data Access, nesta aba entra no `Web File Listing` que esta na coluna do **Web Server Holdings**
 ![](./figs/data_web.png)
 
 4. Dependendo da base de dados podem ter as opções `Faceted Browse` ou `Complete File List` ou o usuario será direcionado diretamente para a lista de dados disponíveis.
