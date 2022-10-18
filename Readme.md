@@ -3,7 +3,7 @@
 
 Conteúdo:
 
-1. [Download de dados sinóticos](./)
+1. [Download de dados sinóticos](./conteudo/d_sinoticos.md)
 2. [Donwlodas de dados geográficos]()
 3. [Configuração do ambiente de trabalho]()
 4. [Configuração do WPS]()
