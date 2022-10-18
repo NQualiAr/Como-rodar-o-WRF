@@ -1,9 +1,11 @@
 # Download de dados sinóticos
 
-1. Entrar no site da UCAR ([NCAR's Research Data Archive](https://rda.ucar.edu/))
+1. Entrar no site da UCAR ([NCAR's Research Data Archive](https://rda.ucar.edu/)).
+
+
 ![](./figs/ncar_website.png)
 
-- Criar uma conta.
+- Antes de continuar será necessario `criar uma conta`.
 
 
 2. Buscar o Dataset, pode ser feito de 2 maneiras:
